@@ -3,7 +3,7 @@
 
 MsgReporter::MsgReporter()
 {
-	FilteredMsg = new int = 0;
+	FilteredMsg = new int();
 	AddLine = false;
 	MessagePack = new List();
 }
